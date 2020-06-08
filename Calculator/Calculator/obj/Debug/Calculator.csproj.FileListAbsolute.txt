@@ -1,0 +1,9 @@
+C:\Users\Stathis\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Stathis\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Stathis\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Stathis\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
